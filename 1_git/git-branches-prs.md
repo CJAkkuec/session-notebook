@@ -2,8 +2,6 @@
 
 ## Branches
 
-- Are very cool
-- They work
-- If you do it right
-- please work
-- please
+- "Copy" the entire folder and file structure of the main branch
+- If you do `git add .` and `git commit -m "[your message]"` before switching branches, changes don't get carried over
+- etc
